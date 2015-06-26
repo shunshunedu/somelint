@@ -1,0 +1,2 @@
+# somelint
+coffeelint, jslint, csslint
